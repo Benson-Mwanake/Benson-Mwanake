@@ -62,7 +62,7 @@ Whether it’s launching my own startup (**TengenezaNow**), contributing to tech
 ### 🤝🏾 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Benson-Mwanake)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/benson-mwanake-760004365)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&logoColor=white)](https://yourportfolio.com) 
 
 ---

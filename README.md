@@ -1,4 +1,4 @@
-![GitHub Banner](./banner.png)
+![GitHub Banner](banner.png)
 
 # 👋🏾 Hey, I'm Benson!
 I'm a software engineer, creative builder, and future tech founder who’s passionate about using code to solve real-world problems. From designing sleek UIs to building full-stack applications, I love turning ideas into digital experiences that are practical, clean, and impactful.

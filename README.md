@@ -25,31 +25,12 @@ Whether it’s launching my own startup (**TengenezaNow**), contributing to tech
 
 ---
 
-### 🛠️ Languages & Tools
-
-#### 🧩 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" height="40"/>
-
-</p>
-
-#### 🧠 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-#### 🧰 Tools & Environment
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+<div align="center">
+  <h3>💻 Languages & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python,flask,mysql,git,github,linux,vscode&perline=6" />
+  </a>
+</div>
 
 ---
 
@@ -59,11 +40,29 @@ Whether it’s launching my own startup (**TengenezaNow**), contributing to tech
 
 ---
 
-### 🤝🏾 Let’s Connect
+## 🤝🏾 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Benson-Mwanake)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/benson-mwanake-760004365)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&logoColor=white)](https://yourportfolio.com) 
+<a href="https://github.com/Benson-Mwanake">
+    <img 
+        src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+        style="border-radius: 4px;"
+    >
+</a>
+<a href="https://linkedin.com/in/benson-mwanake-760004365">
+    <img 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+        style="border-radius: 4px;"
+    >
+</a>
+<a href="https://yourportfolio.com">
+    <img 
+        src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Portfolio"
+        style="border-radius: 4px;"
+    >
+</a>
 
 ---
 

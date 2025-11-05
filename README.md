@@ -66,7 +66,7 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 ---
 
-![Benson's GitHub stats](https://stat-orcin.vercel.app/api?username=bxnson&show_icons=true&theme=radical)
+![Benson's GitHub stats](https://stat-orcin.vercel.app/api?username=Benson-Mwanake&show_icons=true&theme=radical)
 
 
 > 🌱 *Still growing. Still building. Always dreaming.*

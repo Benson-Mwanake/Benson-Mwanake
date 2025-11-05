@@ -27,7 +27,7 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 <div align="center">
   <h3>💻 Languages & Tools</h3>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python,flask,mysql,git,github,linux,vscode&perline=6" />
   </a>
 </div>
@@ -36,27 +36,31 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 ### 📌 Projects You Should Check Out
 
-- [**AfyaLink**](https://github.com/Benson-Mwanake/Afya-ke.git) – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
--  [**Gadget**](https://github.com/Benson-Mwanake/GadgetReview.git) – The app is ideal for tech enthusiasts who want to share their experiences, discover new gadgets, and make informed decisions before purchasing.
+- <a href="https://github.com/Benson-Mwanake/Afya-ke.git" target="_blank" rel="noopener noreferrer"><b>AfyaLink</b></a> – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
+
+- <a href="https://github.com/Benson-Mwanake/GadgetReview.git" target="_blank" rel="noopener noreferrer"><b>Gadget</b></a> – The app is ideal for tech enthusiasts who want to share their experiences, discover new gadgets, and make informed decisions before purchasing.
+
 ---
 
 ## 🤝🏾 Let's Connect
 
-<a href="https://github.com/Benson-Mwanake">
+<a href="https://github.com/Benson-Mwanake" target="_blank" rel="noopener noreferrer">
     <img 
         src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"
         alt="GitHub"
         style="border-radius: 4px;"
     >
 </a>
-<a href="https://linkedin.com/in/benson-mwanake-760004365">
+
+<a href="https://linkedin.com/in/benson-mwanake-760004365" target="_blank" rel="noopener noreferrer">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"
         style="border-radius: 4px;"
     >
 </a>
-<a href="https://yourportfolio.com">
+
+<a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
     <img 
         src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"
         alt="Portfolio"
@@ -65,6 +69,5 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 </a>
 
 ---
-
 
 > 🌱 *Still growing. Still building. Always dreaming.*

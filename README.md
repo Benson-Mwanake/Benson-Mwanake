@@ -66,16 +66,5 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 ---
 
-<table>
-<tr>
-<td>
-<img src="https://stat-orcin.vercel.app/api?username=Benson-Mwanake&show_icons=true&include_all_commits=true&count_private=true&theme=dark&ring_color=00aaff&title_color=00aaff&text_color=ffffff&icon_color=00aaff&border_color=00aaff" />
-</td>
-<td>
-<img src="https://stat-orcin.vercel.app/api/top-langs/?username=Benson-Mwanake&layout=compact&theme=dark&title_color=00aaff&text_color=ffffff&border_color=00aaff" />
-</td>
-</tr>
-</table>
-
 
 > 🌱 *Still growing. Still building. Always dreaming.*

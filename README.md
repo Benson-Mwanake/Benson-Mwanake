@@ -5,7 +5,7 @@ I'm a software engineer, creative builder, and future tech founder who’s passi
 
 My journey started with HTML, CSS, and JavaScript — and now I’m deep in the world of React, Python (Flask), Tailwind, and APIs. Alongside building apps.
 
-Whether it’s launching my own startup (**TengenezaNow**), contributing to tech communities, or sharing the process of learning and building, I believe in growing through experimentation, persistence, and making every step count.
+Whether it’s launching my own startup, contributing to tech communities, or sharing the process of learning and building, I believe in growing through experimentation, persistence, and making every step count.
 
 ---
 
@@ -36,8 +36,8 @@ Whether it’s launching my own startup (**TengenezaNow**), contributing to tech
 
 ### 📌 Projects You Should Check Out
 
-- 🔧 [**TengenezaNow**](#) – A repair service booking app built to help users find reliable technicians fast.
-
+- [**AfyaLink**](https://github.com/Benson-Mwanake/Afya-ke.git) – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
+-  [**Gadget**](https://github.com/Benson-Mwanake/GadgetReview.git) – The app is ideal for tech enthusiasts who want to share their experiences, discover new gadgets, and make informed decisions before purchasing.
 ---
 
 ## 🤝🏾 Let's Connect

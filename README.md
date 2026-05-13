@@ -56,7 +56,7 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
         style="border-radius: 4px;"
     >
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://bensons-portfolio.netlify.app/">
     <img 
         src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"
         alt="Portfolio"

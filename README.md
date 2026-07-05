@@ -36,8 +36,9 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 ### 📌 Projects You Should Check Out
 
-- [**AfyaLink**](https://github.com/Benson-Mwanake/Afya-ke.git) – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
--  [**Gadget**](https://github.com/Benson-Mwanake/GadgetReview.git) – The app is ideal for tech enthusiasts who want to share their experiences, discover new gadgets, and make informed decisions before purchasing.
+- [**MobiBridge**](https://mobibridge.netlify.app) – About
+MobiBridge is a healthcare logistics coordination platform being designed to help clinics, hospitals, NGOs, rehabilitation programs, and field teams manage mobility aid requests, inventory allocation, and delivery tracking through a shared operational workflow.
+-  [**AfyaLink**](https://github.com/Benson-Mwanake/Afya-ke.git) – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
 ---
 
 ## 🤝🏾 Let's Connect
@@ -49,7 +50,7 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
         style="border-radius: 4px;"
     >
 </a>
-<a href="https://linkedin.com/in/benson-mwanake-760004365">
+<a href="https://linkedin.com/in/benson-mwanake">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"

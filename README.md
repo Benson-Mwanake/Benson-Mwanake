@@ -36,8 +36,7 @@ Whether it’s launching my own startup, contributing to tech communities, or sh
 
 ### 📌 Projects You Should Check Out
 
-- [**MobiBridge**](https://mobibridge.netlify.app) – About
-MobiBridge is a healthcare logistics coordination platform being designed to help clinics, hospitals, NGOs, rehabilitation programs, and field teams manage mobility aid requests, inventory allocation, and delivery tracking through a shared operational workflow.
+- [**MobiBridge**](https://mobibridge.netlify.app) – MobiBridge is a healthcare logistics coordination platform being designed to help clinics, hospitals, NGOs, rehabilitation programs, and field teams manage mobility aid requests, inventory allocation, and delivery tracking through a shared operational workflow.
 -  [**AfyaLink**](https://github.com/Benson-Mwanake/Afya-ke.git) – AfyaLink KE enables patients to find nearby clinics, book appointments, check symptoms, and manage health records. Clinics can manage appointments, patients, and reports, while administrators can approve clinics, manage users, and publish health articles.
 ---
 
